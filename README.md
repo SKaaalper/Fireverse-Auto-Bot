@@ -26,25 +26,20 @@ An automated bot for FireverseAI Music platform. This bot helps automate daily m
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SKaaalper/Fireverse-Auto-Bot.git
+git clone https://github.com/SKaaalper/Fireverse-Auto-Bot.git && cd Fireverse-Auto-Bot
 ```
 
-2. Navigate to the project directory:
-```bash
-cd Fireverse-Auto-Bot
-```
-
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 npm install
 ```
 
-4. Create a `tokens.txt` file in the root directory:
+3. Create a `tokens.txt` file in the root directory:
 ```bash
 touch tokens.txt
 ```
 
-5. Add your FireverseAI account tokens to `tokens.txt` (one token per line):
+4. Add your FireverseAI account tokens to `tokens.txt` (one token per line):
 ```
 token1
 token2
